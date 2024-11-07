@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1730853530 source:c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\main.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"rlutil.h"
+
+1730851732 source:c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\menu.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+
+1730853545 c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\menu.h
+	"rlutil.h"
+
+1730850149 source:c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\juego.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"juego.h"
+	"rlutil.h"
+
+1730849784 c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\juego.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+
+1730841839 c:\users\fabricio\desktop\programacion1\proyectos\juego\100-o-escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730935164 source:c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\menu.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+	<string>
+
+1730935235 c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\juego.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	<string>
+
+1730841839 c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730932917 source:c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\juego.cpp
+	<cstdint>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"juego.h"
+	"rlutil.h"
+
+1730904964 source:c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\main.cpp
+	<iostream>
+	<cstdint>
+	"menu.h"
+	"juego.h"
+	"rlutil.h"
+
+1730927799 c:\users\agust\desktop\escalera6.11\100-o-escalera (1)\menu.h
+	"rlutil.h"
+	<string>
+
